@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **devisricm011@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16nXIgFH23zjqrGGvH88PvX9gvFeFVaUY/view](https://drive.google.com/file/d/16nXIgFH23zjqrGGvH88PvX9gvFeFVaUY/view)
+- 📄 Know about my experiences[https://docs.google.com/document/d/1uexvqZw9um6EczW23FY15n94FYkugJ8_Kt0GOdvNNrU/edit?usp=sharing](https://docs.google.com/document/d/1uexvqZw9um6EczW23FY15n94FYkugJ8_Kt0GOdvNNrU/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
