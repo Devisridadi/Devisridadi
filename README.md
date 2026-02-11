@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devisridadi" alt="devisridadi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nine-ochre-86.vercel.app/](https://portfolio-nine-ochre-86.vercel.app/)
+- 👨‍💻 All of my projects are available at [(https://devis-portfolio-teal.vercel.app/)]((https://devis-portfolio-teal.vercel.app/))
 
 - 📫 How to reach me **devisricm011@gmail.com**
 
